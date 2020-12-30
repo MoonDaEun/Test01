@@ -7,9 +7,9 @@ public class test01 {
 		System.out.println("hi~ git!");
 		System.out.println("추가한 메시지");
 
-		
-		System.out.println("안수정 합류");
-
+		System.out.println("추가 2");
+		System.out.println("한번더 추가한 메시지");
+		System.out.println("다시다시다시");
 
 	}
 
